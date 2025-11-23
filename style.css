@@ -60,12 +60,19 @@ body {
   margin-bottom: 12px;
 }
 
+.title:hover{
+  color: hsl(47, 88%, 63%);
+  cursor: pointer;
+}
+
 .description {
   font-size: 16px;
   line-height: 150%;
   color: hsl(0, 0%, 42%);
   margin-bottom: 24px;
 }
+
+
 
 .author {
   display: flex;
